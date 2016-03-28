@@ -4,6 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Hacia ti, morada santa"
+	composer = "Kiko Argüello"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Mezzosoprano"
 }
