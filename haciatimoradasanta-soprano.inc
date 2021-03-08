@@ -15,52 +15,52 @@
 
 		\time 4/4
 		\key e \minor
-		r2. b 8 b  |
-		g' 2 r8 e' e' e'  |
-		dis' 4 fis' 2 b 8 b  |
-		a' 2 r8 b b b  |
+		r2 r4 b 8. b 16  |
+		g' 2 r8 r16 e' e' 8. e' 16  |
+		dis' 4 fis' 2 b 8. b 16  |
+		a' 2 r8 r16 b b 8. b 16  |
 %% 5
-		b' 4 a' g' e' 8 e'  |
-		d' 4 fis' 2 d' 8 d'  |
-		c' 4 e' 2 c' 8 c'  |
+		b' 4 a' g' e' 8. e' 16  |
+		d' 4 fis' 2 d' 8. d' 16  |
+		c' 4 e' 2 c' 8. c' 16  |
 		\time 2/4
 		d' 4 c'  |
 		\time 4/4
 		b 1  |
 %% 10
-		r4. b 8 b b b b  |
+		r4 r8 r16 b b 8. b 16 b 8. b 16  |
 		b' 2 b'  |
-		r4 b' 8 b' b' 4 c'' 8 b'  |
+		r4 b' 8. b' 16 b' 4 c'' 8. b' 16  |
 		a' 2 a'  |
-		r4 a' 8 a' a' 4 b' 8 a'  |
+		r4 a' 8. a' 16 a' 4 b' 8. a' 16  |
 %% 15
 		g' 2 g' 4. g' 8  |
 		g' 8 g' 4 -\staccato g' 8 a' 4 g'  |
 		fis' 1  |
-		r4 b 8 b b 4 b 8 b  |
+		r4 b 8. b 16 b 4 b 8. b 16  |
 		b' 2 b'  |
 %% 20
-		r4. b' 8 b' b' c'' b'  |
+		r4 r8 b' b' 8. b' 16 c'' 8. b' 16  |
 		a' 2 a'  |
-		r4 a' 8 a' a' 4 b' 8 a'  |
+		r4 a' 8. a' 16 a' 4 b' 8. a' 16  |
 		g' 2 g' 4. g' 8  |
 		g' 4 -\staccato r8 g' a' 4 g'  |
 %% 25
 		fis' 1  |
-		r2 r4 b 8 b  |
-		g' 2 r8 e' e' e'  |
-		dis' 4 fis' 2 b 8 b  |
-		a' 2 r8 b b b  |
+		r2 r4 b 8. b 16  |
+		g' 2 r8 r16 e' e' 8. e' 16  |
+		dis' 4 fis' 2 b 8. b 16  |
+		a' 2 r8 r16 b b 8. b 16  |
 %% 30
-		b' 4 a' g' e' 8 e'  |
-		d' 4 fis' 2 d' 8 d'  |
-		c' 4 e' 2 c' 8 c'  |
+		b' 4 a' g' e' 8. e' 16  |
+		d' 4 fis' 2 d' 8. d' 16  |
+		c' 4 e' 2 c' 8. c' 16  |
 		\time 2/4
 		d' 4 c'  |
 		\time 4/4
 		b 1  |
 %% 35
-		r1  |
+		R1  |
 		\bar "|."
 	}
 
