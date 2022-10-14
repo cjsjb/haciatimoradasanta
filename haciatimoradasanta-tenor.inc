@@ -64,7 +64,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		Ha -- cia ti, mo -- ra -- da san -- ta,
 		ha -- cia ti, tie -- rra del sal -- va -- dor.
 		Pe -- re -- gri -- nos, ca -- mi -- nan -- tes,
